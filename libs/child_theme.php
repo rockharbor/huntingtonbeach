@@ -16,7 +16,8 @@ class ChildTheme extends RockharborThemeBase {
 		'slug' => 'huntington_beach',
 		'short_name' => 'Huntington Beach',
 		'supports' => array(
-			'message'
+			'message',
+			'staff'
 		)
 	);
 }
